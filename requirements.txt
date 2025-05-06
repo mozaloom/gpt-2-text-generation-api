@@ -1,4 +1,9 @@
-transformers
-fastapi
-uvicorn
-torch
+transformers==4.51.3
+fastapi==0.115.12
+uvicorn==0.34.2
+torch==2.7.0
+pytest==8.3.5
+pylint==3.3.7
+pytest-cov==6.1.1
+black==25.1.0
+ipython==9.2.0
