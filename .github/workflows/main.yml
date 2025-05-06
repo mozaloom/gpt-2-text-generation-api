@@ -49,4 +49,4 @@ jobs:
           tags: |
             ghcr.io/${{ env.REPO }}:${{ github.sha }}
             ghcr.io/${{ env.REPO }}:latest
-            mozaloom/medgan:latest
+            mozaloom/gpt-2-text-generation-api:latest
