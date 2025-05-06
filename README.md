@@ -8,7 +8,7 @@ A FastAPI web application that provides an API endpoint for text generation usin
 
 ```
 .
-├── DockerFile        # Docker configuration for containerization
+├── Dockerfile        # Docker configuration for containerization
 ├── LICENSE           # Project license information
 ├── Makefile          # Automation commands for development workflow
 ├── README.md         # This documentation file
