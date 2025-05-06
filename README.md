@@ -1,3 +1,5 @@
+[![CI/CD Pipeline](https://github.com/mozaloom/gpt-2-text-generation-api/actions/workflows/main.yml/badge.svg)](https://github.com/mozaloom/gpt-2-text-generation-api/actions/workflows/main.yml)
+
 # GPT-2 Text Generation API
 
 A FastAPI web application that provides an API endpoint for text generation using OpenAI's GPT-2 model via Hugging Face's Transformers library.
